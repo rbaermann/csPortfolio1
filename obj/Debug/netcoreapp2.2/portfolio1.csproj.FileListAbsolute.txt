@@ -1,0 +1,14 @@
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/bin/Debug/netcoreapp2.2/portfolio1.deps.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/bin/Debug/netcoreapp2.2/portfolio1.runtimeconfig.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/bin/Debug/netcoreapp2.2/portfolio1.runtimeconfig.dev.json
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/bin/Debug/netcoreapp2.2/portfolio1.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/bin/Debug/netcoreapp2.2/portfolio1.pdb
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.csprojAssemblyReference.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.csproj.CoreCompileInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.RazorAssemblyInfo.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.RazorAssemblyInfo.cs
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.AssemblyInfoInputs.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.AssemblyInfo.cs
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.RazorTargetAssemblyInfo.cache
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.dll
+/media/thethup/KINGSTON/coding/coding-dojo/c#/aspMvc/portfolio1/obj/Debug/netcoreapp2.2/portfolio1.pdb
